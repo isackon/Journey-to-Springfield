@@ -1,2 +1,2 @@
-input/testset/
-input/train/
+input/**/testset/
+input/**/train/
